@@ -43,13 +43,16 @@ body {
 }
 .links{
     color: white;
+    background-color: rgba(74, 68, 68, 0.426);
+    border: 1px solid white;
     float: left;
     position: absolute;
     top: 1px;
     left: 1px;
-    background-color: rgba(74, 68, 68, 0.426);
-    border: 1px solid white;
     width: 44px;
+}
+a:visited{
+    color: white;
 }
 .waterpicture{
     width: 275px;
