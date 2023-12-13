@@ -1,0 +1,30 @@
+.mb-2{
+        width: 150px; 
+        height: 140px; 
+        object-fit: cover;
+        object-position: 0px 0px; 
+        margin: auto;
+    }
+    
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgb(13, 104, 104) !important;
+}
+.textprimary{
+   color:rgb(13, 104, 104);
+}
+.navbarwidth{
+    width: 275px !important;
+}
+.text-primary{
+    color: rgb(13, 104, 104);
+}
+.email-link{
+    color: rgb(13, 104, 104);
+}
+
+.biggerpic{
+    transform: scale(1.5) !important;
+}
